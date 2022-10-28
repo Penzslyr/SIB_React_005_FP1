@@ -21,6 +21,17 @@ versi lengkap dokumentasi : [notion](https://forest-elephant-f34.notion.site/Web
 - Salman Alfarizi, RCTN-KS05-018
 - Moh. Aulia Miftakhurahmat, RCTN-KS05-021
 
+## Information
+
+1. GitHub:
+https://github.com/SalmanAlfrz/sib_react_005_final_projects/tree/final_project_1
+2. Notion:
+https://forest-elephant-f34.notion.site/Website-News-8a031f1f74cb432080585ff3931f6d5b
+3. Figma:
+https://www.figma.com/file/0aIGQMwYADxV8g10bWd3LJ/NewsAPP?node-id=0%3A1
+4. Trello:
+https://trello.com/invite/b/L8asPwEu/ATTI78d8c4f047429c3b013a0aa8f1a7042b235708B3/final-project-1
+
 
 ## Features
 
